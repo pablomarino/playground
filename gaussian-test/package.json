@@ -1,0 +1,16 @@
+{
+  "name": "gaussian-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "servor": "4.0.0"
+  },
+  "scripts": {
+    "start": "servor . index.html 8080 --reload --browse",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
