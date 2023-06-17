@@ -1,0 +1,29 @@
+:root{
+  background-color: hsl(180, 64%, 30%);
+  color: hsl(199, 36%, 91%);
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+
+.content{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+  width: 20rem;
+  background-color: hsl(210, 2%, 16%);
+  border-radius: 10px;
+}
+
+.regular{
+  font-size: 25px;
+  color: hsl(60, 44%, 90%);
+}
+
+.pressed{
+  color: hsl(34, 82%, 57%);
+}
